@@ -2,11 +2,11 @@ import os
 import shutil
 
 
-from homework.src.__internals.count_words import count_words
-from homework.src.__internals.preprocess_lines import preprocess_lines
-from homework.src.__internals.read_all_lines import read_all_lines
-from homework.src.__internals.split_into_words import split_into_words
-from homework.src.__internals.write_word_counts import write_word_counts
+from homework.src._internals.count_words import count_words
+from homework.src._internals.preprocess_lines import preprocess_lines
+from homework.src._internals.read_all_lines import read_all_lines
+from homework.src._internals.split_into_words import split_into_words
+from homework.src._internals.write_word_counts import write_word_counts
 
 
 
