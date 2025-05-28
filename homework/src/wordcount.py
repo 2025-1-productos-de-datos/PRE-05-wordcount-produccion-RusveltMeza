@@ -1,5 +1,6 @@
 import sys
 
+
 from homework.src._internals.count_words import count_words
 from homework.src._internals.preprocess_lines import preprocess_lines
 from homework.src._internals.read_all_lines import read_all_lines
